@@ -1,0 +1,51 @@
+
+
+.header {
+
+    text-align: center;
+    padding: 200px, 0;
+    background-image: url("../resourse/images/pattern.webp");
+    background-size: cover;
+}
+
+h1 {
+
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    margin: 0;
+    padding: 0;
+
+}
+
+
+h2 {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+
+
+
+}
+
+.Brushes {
+    background-color: mediumspringgreen;
+
+}
+
+.frame {
+    background-color: rgb(216, 88, 42);
+}
+
+.paint {
+    background-color: skyblue;
+}
+
+span {
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+
+}
